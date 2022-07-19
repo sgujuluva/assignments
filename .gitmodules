@@ -4,3 +4,6 @@
 [submodule "spa-usereducer-sgujuluva"]
 	path = spa-usereducer-sgujuluva
 	url = git@github.com:FbW-WD21-E11/spa-usereducer-sgujuluva.git
+[submodule "spa-store-language-setting-sgujuluva"]
+	path = spa-store-language-setting-sgujuluva
+	url = git@github.com:FbW-WD21-E11/spa-store-language-setting-sgujuluva.git
