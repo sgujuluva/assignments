@@ -19,3 +19,6 @@
 [submodule "spa-router-band-landing-page-sgujuluva"]
 	path = spa-router-band-landing-page-sgujuluva
 	url = git@github.com:FbW-WD21-E11/spa-router-band-landing-page-sgujuluva.git
+[submodule "spa-store-usereducerboating-sgujuluva"]
+	path = spa-store-usereducerboating-sgujuluva
+	url = git@github.com:FbW-WD21-E11/spa-store-usereducerboating-sgujuluva.git
