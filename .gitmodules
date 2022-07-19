@@ -7,3 +7,6 @@
 [submodule "spa-store-language-setting-sgujuluva"]
 	path = spa-store-language-setting-sgujuluva
 	url = git@github.com:FbW-WD21-E11/spa-store-language-setting-sgujuluva.git
+[submodule "spa-router-dog-finder-sgujuluva"]
+	path = spa-router-dog-finder-sgujuluva
+	url = git@github.com:FbW-WD21-E11/spa-router-dog-finder-sgujuluva.git
