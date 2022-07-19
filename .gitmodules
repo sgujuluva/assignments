@@ -13,3 +13,6 @@
 [submodule "spa-todolist-sgujuluva"]
 	path = spa-todolist-sgujuluva
 	url = git@github.com:FbW-WD21-E11/spa-todolist-sgujuluva.git
+[submodule "spa-user-login-sgujuluva"]
+	path = spa-user-login-sgujuluva
+	url = git@github.com:FbW-WD21-E11/spa-user-login-sgujuluva.git
