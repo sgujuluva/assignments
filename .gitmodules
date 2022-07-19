@@ -16,3 +16,6 @@
 [submodule "spa-user-login-sgujuluva"]
 	path = spa-user-login-sgujuluva
 	url = git@github.com:FbW-WD21-E11/spa-user-login-sgujuluva.git
+[submodule "spa-router-band-landing-page-sgujuluva"]
+	path = spa-router-band-landing-page-sgujuluva
+	url = git@github.com:FbW-WD21-E11/spa-router-band-landing-page-sgujuluva.git
